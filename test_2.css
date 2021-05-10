@@ -377,4 +377,8 @@ button:hover{
     .web{
         font-size: 1rem;
     }
+    
+    .bottom a:last-child{
+        padding-right: 4%;
+    }
 }
