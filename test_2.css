@@ -58,7 +58,20 @@ h3{
     line-height: 2;
 }
 
-.skill_1{
+.skill{
+    margin: 100px auto 100px auto;   
+    text-align: left;
+    font-size: larger;
+    line-height: 1.7;
+    font-family: 'Merriweather', serif;
+}
+
+strong{
+    font-family: 'Merriweather', serif;
+}
+
+
+/* .skill_1{
     margin: 100px auto 100px auto;   
     text-align: left;
     font-size: larger;
@@ -144,7 +157,7 @@ h3{
 
 .skill_8 strong{
     font-family: 'Merriweather', serif;
-}
+} */
 
 .skills h3{
     margin-bottom: 3%;
